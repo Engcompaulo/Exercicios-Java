@@ -1,2 +1,2 @@
 # Exercicios-Java
-Repositório de projetos desenvolvido para aprendizado.
+Repositório de projetos desenvolvidos para aprendizado.
